@@ -19,6 +19,7 @@ html {
 }
 body {
     font-family: 'Overpass', sans-serif;
+    background-color: var(--very-dark-blue);
 }
 
 /*Footer*/
