@@ -181,5 +181,20 @@ body {
 
 /*Footer*/
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+footer {
+    width: 100%;
+    height: 5vh;
+    display: grid;
+    place-content: center;
+    padding: 0 20px;
+}
+footer .attribution p {
+    font-weight: 400; 
+    font-size: var(--md);
+    text-align: center;
+    color: var(--white);
+}
+footer .attribution a {
+    color: var(--orange);
+    text-decoration: none;
+}
