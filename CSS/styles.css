@@ -120,6 +120,10 @@ body {
     letter-spacing: 0.2rem;
     color: var(--white);
 }
+.rating--button button:hover {
+    background-color: var(--white);
+    color: var(--orange);
+}
 
 /*Footer*/
 
