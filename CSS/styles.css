@@ -80,7 +80,7 @@ body {
     justify-content: space-between;
     margin-bottom: 28px;
 }
-.rating--score .score {
+.score {
     width: 44px;
     height: 44px;
     display: flex;
@@ -95,7 +95,7 @@ body {
     line-height: 1.8rem;
     color: var(--light-grey);
 }
-.rating--score .score:hover {
+.score:hover {
     cursor: pointer;
     background-color: var(--orange);
     color: var(--white);
