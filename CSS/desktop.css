@@ -1,0 +1,8 @@
+.rating-card-container,
+.thanks-card-container {
+    width: 420px;
+    max-width: 90%;
+}
+.thanks-card-container {
+    padding: 18px;
+}
